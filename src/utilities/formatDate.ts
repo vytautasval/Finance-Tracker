@@ -1,4 +1,3 @@
-
 /** Formats a given date into a readable format: Year-month-day. */
 const formatDate = (date: Date) => {
   const year = date.getFullYear()
@@ -9,5 +8,3 @@ const formatDate = (date: Date) => {
 }
 
 export default formatDate
-
- 
